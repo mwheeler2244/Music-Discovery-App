@@ -73,37 +73,6 @@ app/
 └── page.tsx                   # Home page
 ```
 
-## 🎨 Key Components
-
-### **HeroSection**
-
-- Responsive navigation with mobile menu
-- Compelling call-to-action
-- Smooth scroll navigation
-
-### **LatestDiscoveries**
-
-- Optimized image gallery using Next.js Image
-- Interactive artist cards with hover effects
-- Playlist integration placeholders
-
-### **SuggestSection**
-
-- Form validation and state management
-- Toast notifications for user feedback
-- Responsive form design
-
-### **ImpactSection**
-
-- Platform statistics and metrics
-- Customer testimonials
-- Social proof elements
-
-### **SubscribeSection**
-
-- Newsletter signup functionality
-- User-friendly form validation
-- Conversion-optimized design
 
 ## 📱 Responsive Design
 
@@ -120,48 +89,5 @@ The platform is fully responsive and optimized for:
 - **Pinterest** - Additional image resources
 - **Social Media** - Links to platform social accounts
 
-## 🔧 Available Scripts
 
-- `npm run dev` - Start development server with Turbopack
-- `npm run build` - Build for production
-- `npm run start` - Start production server
-- `npm run lint` - Run ESLint
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Guidelines
-
-- Follow TypeScript best practices
-- Use meaningful component and variable names
-- Maintain responsive design principles
-- Add proper TypeScript types for new components
-- Test across different screen sizes
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Artists featured on the platform
-- Unsplash photographers for high-quality images
-- Next.js team for the amazing framework
-- Tailwind CSS for the utility-first styling approach
-
-## 📞 Contact
-
-- **Website**: [Musicly](https://your-domain.com)
-- **Email**: contact@musicly.com
-- **Twitter**: [@MusiclyApp](https://twitter.com/MusiclyApp)
-
----
-
-**Made with ♫ for music lovers worldwide**

@@ -7,6 +7,10 @@ A modern music discovery platform built with Next.js that helps users find emerg
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=flat-square&logo=tailwind-css)
 ![React](https://img.shields.io/badge/React-18.0-61DAFB?style=flat-square&logo=react)
 
+## 👀 Demo
+
+https://music-discovery-app-gilt.vercel.app/
+
 ## ✨ Features
 
 - **🎯 Artist Discovery** - Curated selection of emerging and established musicians
